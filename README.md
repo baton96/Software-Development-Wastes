@@ -1,4 +1,4 @@
-# Software Development Wastes Analysis
+# Software Development Wastes Analysis 🚮
 # 1. Introduction
 This report presents design and summarizes results of the survey research "***What kind of wastes are the most common and most harmful in software development projects?***". The survey research was a part of the project realized in the frame of Quality Management and Experimental Software Engineering classes at Poznan University of Technology.
 
