@@ -5,16 +5,16 @@ University project for the course of "Quality Management and Experimental Softwa
 This report presents design and summarizes results of the survey research "***What kind of wastes are the most common and most harmful in software development projects?***". The survey research was a part of the project realized in the frame of Quality Management and Experimental Software Engineering classes at Poznan University of Technology.
 
 # 2. Objectives
-## 2.1. Research questions
+## Research questions
 * **RQ1**: What kinds of wastes in software development are the most common?
 * **RQ2**: What kinds of wastes in software development are the most harmful?
 * **RQ3**: Is there a relationship between frequency / harm of a "waste" and work experience?
 
-## 2.2. Hypothesis
+## Hypothesis
 * **H1**: Opinions on frequency and harm of a "waste" are related to kind (programming language and role) of work experience
 * **H2**: Opinions on frequency and harm of a "waste" are related to amount (length and level) of work experience
 
-## 2.3. Scope
+## Scope
 The scope of our survey was to ask (as many as possible) people working in software projects, either professionally or in university projects.
 
 # 3. Design
