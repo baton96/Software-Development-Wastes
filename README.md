@@ -1,6 +1,4 @@
 # Software Development Wastes Analysis
-University project for the course of "Quality Management and Experimental Software Engineering"
-
 # 1. Introduction
 This report presents design and summarizes results of the survey research "***What kind of wastes are the most common and most harmful in software development projects?***". The survey research was a part of the project realized in the frame of Quality Management and Experimental Software Engineering classes at Poznan University of Technology.
 
