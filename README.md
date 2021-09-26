@@ -19,7 +19,7 @@ The scope of our survey was to ask (as many as possible) people working in softw
 We designed our study as a cross-sectional as we think that this approach fits our research questions the best. A big advantage of a cross-sectional study is that it’s fairly easy and quick to both conduct and gather the results. We decided to administer the survey to the participants in the way of self-administered, online questionnaires.
 
 # 4. Instrument
-Our idea for the instrument was to create a survey on Google Forms as it’s the most convenient and popular approach nowadays. [Link](https://docs.google.com/forms/d/1OqUA8RYgZe0b8pPqrQZ_e4ml1H4hFOJ3NlbcotC5wDY/edit?usp=sharing) to the survey on Google Forms:
+Our idea for the instrument was to create a survey on Google Forms as it’s the most convenient and popular approach nowadays. [Link](https://docs.google.com/forms/d/1OqUA8RYgZe0b8pPqrQZ_e4ml1H4hFOJ3NlbcotC5wDY) to the survey on Google Forms:
 
 ## Questions
 **Q1: What is your name?**  
