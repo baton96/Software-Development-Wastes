@@ -92,7 +92,7 @@ Data was collected during the period between **18.02.21** and **24.02.21**. Resp
 
 **Q3: Main roles in the chosen projects**  
 ![](imgs/Q3.png)
-
+<!--
 **Q4: Work experience level in a such or similar role**  
 ![](imgs/Q4.png)
 
@@ -101,7 +101,7 @@ Data was collected during the period between **18.02.21** and **24.02.21**. Resp
 
 **Q6: Work experience (in months) in the chosen projects**  
 ![](imgs/Q6.png)
-
+-->
 **Q7: Frequency of task-related "wastes" in the chosen projects**  
 ![](imgs/Q7.png)
 
@@ -117,7 +117,7 @@ Data was collected during the period between **18.02.21** and **24.02.21**. Resp
 # 7. Threats to validity
 * Our university group is specific because a big part of our studies is about participating in projects from an architecture and management perspective (and not development) - maybe people from different Master specializations would answer differently.
 * Our university group is specific because most of us work as developers - maybe people working in other roles would answer differently.
-
+<!--
 # 8. Conclusions
 **RQ1: We found out that those kinds of waste are the most common**  
 **RQ2: We found out that those kinds of waste are the most harmful**  
@@ -137,3 +137,4 @@ Data was collected during the period between **18.02.21** and **24.02.21**. Resp
 ### 8.3.2. Correlations between wastes
 ![](imgs/corrfreq.png)  
 ![](imgs/corrharm.png)  
+-->
